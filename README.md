@@ -1,3 +1,5 @@
+# Instagram Scraper - All in one
+Interested in using this scraper? Get it here: [Instagram Scraper - All in one](https://apify.com/curious_coder/instagram-scraper)
 Scrape instagram data such as profiles details, posts, comments, likes, hashtags etc from instagram with this all in one instagram scraper
 
 ## Use cases of instagram profiles scraper
