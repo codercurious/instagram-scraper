@@ -1,5 +1,5 @@
 # Instagram Scraper - All in one
-Interested in using this scraper? Get it here: [Instagram Scraper - All in one](https://apify.com/curious_coder/instagram-scraper)
+Interested in using this scraper? Get it here: [Instagram Scraper - All in one](https://apify.com/curious_coder/instagram-scraper?fpr=ve081&fp_sid=github_instagram-scraper)
 Scrape instagram data such as profiles details, posts, comments, likes, hashtags etc from instagram with this all in one instagram scraper
 
 ## Use cases of instagram profiles scraper
@@ -12,7 +12,11 @@ Scrape posts from any instagram user to
 - Analyse best performing posts with the help of engagement insights like comments count, likes count data.
 - Bulk generate content ideas by with the help of ChatGPT
 
-✳️ **You might be interested in:**  [Linkedin profile scraper](https://apify.com/curious_coder/linkedin-profile-scraper) | [Linkedin comments scraper](https://apify.com/curious_coder/linkedin-comment-scraper) | [Linkedin reactions scraper](https://apify.com/curious_coder/linkedin-post-reactions-scraper) | [Linkedin post scraper](https://apify.com/curious_coder/linkedin-post-search-scraper) | [Other useful scrapers](https://apify.com/curious_coder)
+✳️ **You might be interested in:**  [Linkedin profile scraper](https://apify.com/curious_coder/linkedin-profile-scraper?fpr=ve081&fp_sid=github_instagram-scraper) | [Linkedin comments scraper](https://apify.com/curious_coder/linkedin-comment-scraper?fpr=ve081&fp_sid=github_instagram-scraper) | [Linkedin reactions scraper](https://apify.com/curious_coder/linkedin-post-reactions-scraper?fpr=ve081&fp_sid=github_instagram-scraper) | [Linkedin post scraper](https://apify.com/curious_coder/linkedin-post-search-scraper?fpr=ve081&fp_sid=github_instagram-scraper) | [Other useful scrapers](https://apify.com/curious_coder?fpr=ve081&fp_sid=github_instagram-scraper)
+
+
+## Integrations
+You can use [Make](https://www.make.com/en/register?pc=growthhack) to integrate instagram data to any other SaaS platform by designing your own automation flows.
 
 ## Profile scraper sample
 Here is the sample output of this actor:
