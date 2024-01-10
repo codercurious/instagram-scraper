@@ -14,8 +14,8 @@ Scrape posts from any instagram user to
 - Bulk generate content ideas by with the help of ChatGPT
 
 
-## How to scrape instagram followers, post likes and comments
-To access this kind of data you need to be logged in. If you provide your instagram cookies scraper will use them for authorization 
+## Getting started with instagram instagram scraper
+To access certain kinds of data you need to be logged in. If you provide your instagram cookies scraper will use them for authorization 
 
 Follow these steps to obtain cookies
 
@@ -29,6 +29,24 @@ Follow these steps to obtain cookies
 8. Run the actor and obtain the extracted data in your preferred format.
 
 ![Instagram scraper options](https://ik.imagekit.io/webscraper/Screenshot%202024-01-10%20at%205.49.05%20PM.png?updatedAt=1704889168044)
+
+## How to scrape instagram followers
+1. Select action as 'Scrape instagram followers'
+2. Go to 'Scrape instagram followers' section
+   ![Instagram followers scraper options](https://ik.imagekit.io/webscraper/Instagram/Screenshot%202024-01-10%20at%205.56.47%20PM.png?updatedAt=1704890099341)
+4. Enter the profile URL of the instagram user
+5. Insert the instagram cookies in to 'Cookies' field
+6. Select a proxy of your instagram account's country
+7. Enter number of records neeeded, or leave it blank if you want to scrape all followers
+8. Click 'Run' and wait for the scraper to finish
+9. Click on 'Log' tab for detailed progress of the scraping job
+
+You can follow similar approach to scrape other data types such as posts, post likes, comments, etc
+   
+## How to get instagram post URL
+To get instagram post URL, you can simply click on the 3 dots button at top right corner and click on "Copy link" option as shown below 
+
+ ![How to get link to instagram post](https://ik.imagekit.io/webscraper/Instagram/Screenshot%202024-01-10%20at%205.59.31%20PM.png?updatedAt=1704890704539)
 
 ## Apify proxy
 
