@@ -28,6 +28,8 @@ Follow these steps to obtain cookies
 7. (Optional) Configure proxy settings for enhanced reliability.
 8. Run the actor and obtain the extracted data in your preferred format.
 
+![Instagram scraper options](https://ik.imagekit.io/webscraper/Screenshot%202024-01-10%20at%205.49.05%20PM.png?updatedAt=1704889168044)
+
 ## Apify proxy
 
 This instagram data extractor uses [Apify proxy](https://apify.com/proxy?fpr=ve081) as the proxy solution. Apify has a free plan that gives you free credits worth $5 per month which makes it ideal for the development phase, but can be easily scaled up to millions of pages per month if needs be.
